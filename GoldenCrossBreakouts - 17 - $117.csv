@@ -1,0 +1,47 @@
+Strategy report
+Symbol: AAPL
+Work Time: 4/24/20 12:29 PM - 5/1/20 11:03 AM
+
+
+Id;Strategy;Side;Amount;Price;Date/Time;Trade P/L;P/L;Position;
+1;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$279.99;4/24/20 12:29 PM;;$6.00;100.0;
+2;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$280.32;4/24/20 12:54 PM;$33.00;$33.00;0.0;
+3;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$281.63;4/24/20 3:21 PM;;$18.00;100.0;
+4;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$281.64;4/24/20 3:34 PM;$1.00;$34.00;0.0;
+5;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$283.58;4/27/20 9:54 AM;;$34.50;100.0;
+6;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$283.85;4/27/20 10:09 AM;$27.00;$61.00;0.0;
+7;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$283.09;4/27/20 11:33 AM;;$67.88;100.0;
+8;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$282.70;4/27/20 11:41 AM;($39.00);$22.00;0.0;
+9;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$282.34;4/27/20 2:20 PM;;$29.50;100.0;
+10;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$282.69;4/27/20 2:48 PM;$35.00;$57.00;0.0;
+11;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$281.24;4/28/20 1:10 PM;;$61.80;100.0;
+12;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$281.00;4/28/20 1:14 PM;($24.20);$32.80;0.0;
+13;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$281.26;4/28/20 1:49 PM;;$44.30;100.0;
+14;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$281.31;4/28/20 2:27 PM;$5.00;$37.80;0.0;
+15;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$284.65;4/29/20 9:23 AM;;$68.80;100.0;
+16;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$285.00;4/29/20 9:37 AM;$35.00;$72.80;0.0;
+17;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$287.71;4/29/20 1:07 PM;;$60.80;100.0;
+18;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$287.75;4/29/20 1:20 PM;$4.00;$76.80;0.0;
+19;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$287.88;4/29/20 2:47 PM;;$87.80;100.0;
+20;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$287.55;4/29/20 2:53 PM;($33.00);$43.80;0.0;
+21;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$291.60;4/29/20 6:35 PM;;$53.80;100.0;
+22;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$289.18;4/30/20 8:52 AM;($242.00);($198.20);0.0;
+23;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$291.90;4/30/20 11:11 AM;;($186.70);100.0;
+24;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$291.75;4/30/20 11:13 AM;($15.00);($213.20);0.0;
+25;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$290.60;4/30/20 1:16 PM;;($216.20);100.0;
+26;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$290.22;4/30/20 1:22 PM;($38.00);($251.20);0.0;
+27;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$292.49;4/30/20 3:54 PM;;($252.10);100.0;
+28;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$294.07;4/30/20 3:59 PM;$157.50;($93.70);0.0;
+29;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$289.87;5/1/20 9:34 AM;;($105.70);100.0;
+30;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$292.60;5/1/20 9:41 AM;$273.00;$179.30;0.0;
+31;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$292.76;5/1/20 9:52 AM;;$203.30;100.0;
+32;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$292.66;5/1/20 9:54 AM;($10.00);$169.30;0.0;
+33;GoldenCrossBreakouts(GoldenCrossBreakoutsLE);Buy to Open;100.0;$296.84;5/1/20 10:59 AM;;$202.30;100.0;
+34;GoldenCrossBreakouts(GoldenCrossBreakoutsLX);Sell to Close;-100.0;$296.32;5/1/20 11:03 AM;($52.00);$117.30;0.0;
+
+
+Max trade P/L: $273.00;
+
+Total P/L: $117.30;
+
+Total order(s): 17;

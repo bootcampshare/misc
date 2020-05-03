@@ -1,0 +1,43 @@
+Strategy report
+Symbol: AAPL
+Work Time: 4/24/20 10:37 AM - 5/1/20 11:15 AM
+
+
+Id;Strategy;Side;Amount;Price;Date/Time;Trade P/L;P/L;Position;
+1;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$280.30;4/24/20 10:37 AM;;$13.49;100.0;
+2;IntradayFlagFormationStrat(FlagTrailStopLX);Sell to Close;-100.0;$279.95;4/24/20 10:41 AM;($34.50);($34.50);0.0;
+3;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$281.18;4/24/20 2:01 PM;;($27.50);100.0;
+4;IntradayFlagFormationStrat(FlagInactivityLX);Sell to Close;-100.0;$281.45;4/24/20 2:44 PM;$27.00;($7.50);0.0;
+5;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$284.50;4/27/20 8:03 AM;;($16.62);100.0;
+6;IntradayFlagFormationStrat(FlagStopLX);Sell to Close;-100.0;$282.15;4/27/20 9:18 AM;($235.12);($242.62);0.0;
+7;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$282.13;4/27/20 9:51 AM;;($227.84);100.0;
+8;IntradayFlagFormationStrat(FlagProfitTargetLX);Sell to Close;-100.0;$284.17;4/27/20 9:59 AM;$203.78;($38.84);0.0;
+9;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$281.87;4/27/20 1:55 PM;;($45.69);100.0;
+10;IntradayFlagFormationStrat(FlagTrailStopLX);Sell to Close;-100.0;$282.40;4/27/20 3:06 PM;$52.65;$13.81;0.0;
+11;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$285.14;4/28/20 9:31 AM;;$11.81;100.0;
+12;IntradayFlagFormationStrat(FlagInactivityLX);Sell to Close;-100.0;$285.42;4/28/20 9:53 AM;$28.00;$41.81;0.0;
+13;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$285.21;4/28/20 10:13 AM;;$18.31;100.0;
+14;IntradayFlagFormationStrat(FlagStopLX);Sell to Close;-100.0;$284.41;4/28/20 10:18 AM;($80.50);($38.69);0.0;
+15;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$283.60;4/28/20 10:34 AM;;($16.69);100.0;
+16;IntradayFlagFormationStrat(FlagTrailStopLX);Sell to Close;-100.0;$283.14;4/28/20 10:41 AM;($46.50);($85.19);0.0;
+17;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$281.19;4/29/20 8:28 AM;;$79.41;100.0;
+18;IntradayFlagFormationStrat(FlagProfitTargetLX);Sell to Close;-100.0;$285.21;4/29/20 8:58 AM;$401.59;$316.40;0.0;
+19;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$287.71;4/29/20 9:48 AM;;$333.39;100.0;
+20;IntradayFlagFormationStrat(FlagStopLX);Sell to Close;-100.0;$286.78;4/29/20 9:54 AM;($93.01);$223.39;0.0;
+21;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$289.98;4/29/20 4:29 PM;;$242.41;100.0;
+22;IntradayFlagFormationStrat(FlagInactivityLX);Sell to Close;-100.0;$289.24;4/30/20 9:38 AM;($73.98);$149.41;0.0;
+23;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$298.00;4/30/20 4:30 PM;;$303.41;100.0;
+24;IntradayFlagFormationStrat(FlagStopLX);Sell to Close;-100.0;$293.02;4/30/20 4:38 PM;($498.00);($348.59);0.0;
+25;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$293.01;5/1/20 9:40 AM;;($389.59);100.0;
+26;IntradayFlagFormationStrat(FlagStopLX);Sell to Close;-100.0;$292.06;5/1/20 9:41 AM;($95.49);($444.08);0.0;
+27;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$298.93;5/1/20 10:08 AM;;($437.08);100.0;
+28;IntradayFlagFormationStrat(FlagStopLX);Sell to Close;-100.0;$298.02;5/1/20 10:10 AM;($91.14);($535.22);0.0;
+29;IntradayFlagFormationStrat(FlagLE);Buy to Open;100.0;$296.92;5/1/20 10:58 AM;;($541.22);100.0;
+30;IntradayFlagFormationStrat(FlagStopLX);Sell to Close;-100.0;$296.16;5/1/20 11:15 AM;($76.00);($611.22);0.0;
+
+
+Max trade P/L: $401.59;
+
+Total P/L: ($611.22);
+
+Total order(s): 15;
