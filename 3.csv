@@ -1,0 +1,16 @@
+Strategy report
+Symbol: AAPL
+Work Time: 4/30/20 10:57 AM - 4/30/20 10:59 AM
+
+
+Id;Strategy;Side;Amount;Price;Date/Time;Trade P/L;P/L;Position;
+1;MultiCurrencyCorrelation(MultiCurrencySE);Sell to Open;-100.0;$292.00;4/30/20 10:57 AM;;$9.50;-100.0;
+2;MultiCurrencyCorrelation(MultiCurrencyLE);Buy to Close;100.0;$291.68;4/30/20 10:59 AM;$32.50;$32.50;0.0;
+3;MultiCurrencyCorrelation(MultiCurrencyLE);Buy to Open;100.0;$291.68;4/30/20 10:59 AM;;$19.00;100.0;
+
+
+Max trade P/L: $32.50;
+
+Total P/L: $32.50;
+
+Total order(s): 1;

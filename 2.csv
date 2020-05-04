@@ -1,0 +1,19 @@
+Strategy report
+Symbol: AAPL
+Work Time: 4/28/20 10:26 AM - 5/1/20 1:44 PM
+
+
+Id;Strategy;Side;Amount;Price;Date/Time;Trade P/L;P/L;Position;
+1;BollingerBandsWithEngulfing(BBWE_LE);Buy to Open;100.0;$283.35;4/28/20 10:26 AM;;$0.99;100.0;
+2;BollingerBandsWithEngulfing(BBWE_LX);Sell to Close;-100.0;$283.60;4/28/20 10:40 AM;$25.00;$25.00;0.0;
+3;BollingerBandsWithEngulfing(BBWE_LE);Buy to Open;100.0;$287.19;4/29/20 1:29 PM;;$22.00;100.0;
+4;BollingerBandsWithEngulfing(BBWE_LX);Sell to Close;-100.0;$286.98;4/29/20 1:51 PM;($21.00);$4.00;0.0;
+5;BollingerBandsWithEngulfing(BBWE_LE);Buy to Open;100.0;$289.24;5/1/20 1:20 PM;;($27.76);100.0;
+6;BollingerBandsWithEngulfing(BBWE_LX);Sell to Close;-100.0;$290.45;5/1/20 1:44 PM;$121.24;$125.24;0.0;
+
+
+Max trade P/L: $121.24;
+
+Total P/L: $125.24;
+
+Total order(s): 3;

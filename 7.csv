@@ -1,0 +1,73 @@
+Strategy report
+Symbol: AAPL
+Work Time: 4/27/20 9:31 AM - 5/1/20 3:39 PM
+
+
+Id;Strategy;Side;Amount;Price;Date/Time;Trade P/L;P/L;Position;
+1;Stress(StressLE);Buy to Open;17.0;$281.79;4/27/20 9:31 AM;;($11.02);17.0;
+2;Stress(StressLX);Sell to Close;-17.0;$282.14;4/27/20 9:51 AM;$5.95;$5.95;0.0;
+3;Stress(StressLE);Buy to Open;17.0;$282.16;4/27/20 10:39 AM;;$7.14;17.0;
+4;Stress(StressLX);Sell to Close;-17.0;$281.69;4/27/20 10:59 AM;($8.08);($2.13);0.0;
+5;Stress(StressLE);Buy to Open;17.0;$282.41;4/27/20 11:54 AM;;($3.82);17.0;
+6;Stress(StressLX);Sell to Close;-17.0;$281.52;4/27/20 12:10 PM;($15.13);($17.26);0.0;
+7;Stress(StressLE);Buy to Open;17.0;$282.11;4/27/20 2:09 PM;;($17.94);17.0;
+8;Stress(StressLX);Sell to Close;-17.0;$282.89;4/27/20 2:45 PM;$13.26;($3.99);0.0;
+9;Stress(StressLE);Buy to Open;17.0;$282.79;4/27/20 2:48 PM;;($5.28);17.0;
+10;Stress(StressLX);Sell to Close;-17.0;$282.84;4/27/20 2:58 PM;$0.92;($3.08);0.0;
+11;Stress(StressLE);Buy to Open;17.0;$282.35;4/27/20 3:07 PM;;$0.00;17.0;
+12;Stress(StressLX);Sell to Close;-17.0;$283.07;4/27/20 3:21 PM;$12.24;$9.16;0.0;
+13;Stress(StressLE);Buy to Open;17.0;$282.67;4/27/20 3:37 PM;;$10.86;17.0;
+14;Stress(StressLX);Sell to Close;-17.0;$282.98;4/27/20 3:45 PM;$5.27;$14.43;0.0;
+15;Stress(StressLE);Buy to Open;17.0;$282.03;4/28/20 10:46 AM;;$10.01;17.0;
+16;Stress(StressLX);Sell to Close;-17.0;$282.31;4/28/20 11:36 AM;$4.76;$19.19;0.0;
+17;Stress(StressLE);Buy to Open;17.0;$281.65;4/28/20 11:43 AM;;$14.60;17.0;
+18;Stress(StressLX);Sell to Close;-17.0;$281.07;4/28/20 11:52 AM;($9.83);$9.36;0.0;
+19;Stress(StressLE);Buy to Open;17.0;$281.17;4/28/20 12:11 PM;;$10.55;17.0;
+20;Stress(StressLX);Sell to Close;-17.0;$279.66;4/28/20 12:16 PM;($25.67);($16.31);0.0;
+21;Stress(StressLE);Buy to Open;17.0;$281.49;4/28/20 1:07 PM;;($20.62);17.0;
+22;Stress(StressLX);Sell to Close;-17.0;$281.33;4/28/20 1:47 PM;($2.81);($19.11);0.0;
+23;Stress(StressLE);Buy to Open;17.0;$281.16;4/28/20 2:35 PM;;($21.83);17.0;
+24;Stress(StressLX);Sell to Close;-17.0;$280.99;4/28/20 2:46 PM;($2.89);($22.00);0.0;
+25;Stress(StressLE);Buy to Open;17.0;$280.46;4/28/20 3:32 PM;;($22.17);17.0;
+26;Stress(StressLX);Sell to Close;-17.0;$280.05;4/28/20 3:36 PM;($6.97);($28.97);0.0;
+27;Stress(StressLE);Buy to Open;17.0;$288.60;4/29/20 10:41 AM;;($25.92);17.0;
+28;Stress(StressLX);Sell to Close;-17.0;$287.22;4/29/20 11:34 AM;($23.46);($52.44);0.0;
+29;Stress(StressLE);Buy to Open;17.0;$286.95;4/29/20 12:03 PM;;($50.06);17.0;
+30;Stress(StressLX);Sell to Close;-17.0;$287.05;4/29/20 12:19 PM;$1.70;($50.74);0.0;
+31;Stress(StressLE);Buy to Open;17.0;$287.78;4/29/20 2:44 PM;;($50.23);17.0;
+32;Stress(StressLX);Sell to Close;-17.0;$287.95;4/29/20 2:47 PM;$2.91;($47.83);0.0;
+33;Stress(StressLE);Buy to Open;17.0;$288.35;4/29/20 3:02 PM;;($46.35);17.0;
+34;Stress(StressLX);Sell to Close;-17.0;$288.58;4/29/20 3:29 PM;$4.03;($43.80);0.0;
+35;Stress(StressLE);Buy to Open;17.0;$290.98;4/30/20 10:19 AM;;($44.99);17.0;
+36;Stress(StressLX);Sell to Close;-17.0;$291.35;4/30/20 10:48 AM;$6.29;($37.51);0.0;
+37;Stress(StressLE);Buy to Open;17.0;$290.92;4/30/20 11:36 AM;;($37.77);17.0;
+38;Stress(StressLX);Sell to Close;-17.0;$291.25;4/30/20 11:45 AM;$5.69;($31.82);0.0;
+39;Stress(StressLE);Buy to Open;17.0;$289.41;4/30/20 12:48 PM;;($27.91);17.0;
+40;Stress(StressLX);Sell to Close;-17.0;$290.17;4/30/20 12:55 PM;$12.92;($18.90);0.0;
+41;Stress(StressLE);Buy to Open;17.0;$290.68;4/30/20 2:10 PM;;($16.18);17.0;
+42;Stress(StressLX);Sell to Close;-17.0;$291.44;4/30/20 2:38 PM;$12.92;($5.98);0.0;
+43;Stress(StressLE);Buy to Open;17.0;$292.09;4/30/20 3:22 PM;;($3.62);17.0;
+44;Stress(StressLX);Sell to Close;-17.0;$291.60;4/30/20 3:43 PM;($8.33);($14.31);0.0;
+45;Stress(StressLE);Buy to Open;17.0;$291.15;4/30/20 3:45 PM;;($12.38);17.0;
+46;Stress(StressLX);Sell to Close;-17.0;$292.95;4/30/20 3:56 PM;$30.60;$16.29;0.0;
+47;Stress(StressLE);Buy to Open;16.0;$296.07;5/1/20 10:26 AM;;$18.85;16.0;
+48;Stress(StressLX);Sell to Close;-16.0;$296.84;5/1/20 11:01 AM;$12.32;$28.61;0.0;
+49;Stress(StressLE);Buy to Open;17.0;$293.75;5/1/20 11:49 AM;;$30.06;17.0;
+50;Stress(StressLX);Sell to Close;-17.0;$293.65;5/1/20 12:20 PM;($1.62);$27.00;0.0;
+51;Stress(StressLE);Buy to Open;17.0;$291.74;5/1/20 12:24 PM;;$20.75;17.0;
+52;Stress(StressLX);Sell to Close;-17.0;$290.92;5/1/20 12:32 PM;($13.90);$13.10;0.0;
+53;Stress(StressLE);Buy to Open;17.0;$290.77;5/1/20 12:36 PM;;($10.53);17.0;
+54;Stress(StressLX);Sell to Close;-17.0;$290.05;5/1/20 12:38 PM;($12.24);$0.86;0.0;
+55;Stress(StressLE);Buy to Open;17.0;$290.88;5/1/20 1:03 PM;;$8.53;17.0;
+56;Stress(StressLX);Sell to Close;-17.0;$289.56;5/1/20 1:16 PM;($22.44);($21.58);0.0;
+57;Stress(StressLE);Buy to Open;17.0;$290.26;5/1/20 2:20 PM;;($14.81);17.0;
+58;Stress(StressLX);Sell to Close;-17.0;$290.94;5/1/20 2:51 PM;$11.56;($10.02);0.0;
+59;Stress(StressLE);Buy to Open;17.0;$291.61;5/1/20 3:11 PM;;($8.26);17.0;
+60;Stress(StressLX);Sell to Close;-17.0;$289.48;5/1/20 3:39 PM;($36.21);($46.23);0.0;
+
+
+Max trade P/L: $30.60;
+
+Total P/L: ($46.23);
+
+Total order(s): 30;
